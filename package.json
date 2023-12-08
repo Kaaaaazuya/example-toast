@@ -1,13 +1,13 @@
 {
-  "name": "next-template",
+  "name": "example-toastify",
   "version": "0.1.0",
-  "description": "Next.js のテンプレート",
+  "description": "react-toastify の使い方",
   "private": true,
   "author": "Kaaaaazuya",
-  "homepage": "https://github.com/Kaaaaazuya/next13-template#readme",
+  "homepage": "https://github.com/Kaaaaazuya/example-toastify#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaaaaazuya/next13-template.git"
+    "url": "git+https://github.com/Kaaaaazuya/example-toastify.git"
   },
   "license": "MIT",
   "scripts": {
